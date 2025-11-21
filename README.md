@@ -1,0 +1,1 @@
+Hi im explaining here how the pages are connected. On the brouse by Category section the gaming Category views a single page. And by clicking view all product shows up all the list of the products thankyou. 
